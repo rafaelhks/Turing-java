@@ -5,4 +5,6 @@ Software para interpretação e simulação de uma Máquina de Turing. Desenvolv
  * Constrói uma Máquina de Turing 
  * Permite o teste de palavras.
 
+![Alt text](Turing.png?raw=true "Exemplo")
+
 Este programa foi desenvolvido originalmente como uma atividade da matéria de Linguagens Formais, Autômatos e Computabilidade do curso de Ciência da Computação da Universidade Estadual do Paraná (câmpus de Apucarana).
