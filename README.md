@@ -13,7 +13,7 @@ A decisão de torna-lo um projeto Open Source visa contribuir para o crescimento
  * Constrói uma Máquina de Turing baseada na descrição formal;
  * Permite o teste de palavras.
  
-Maiores informações sobre a sintaxe dos dados de entrada podem ser conferidas no arquivo "relatorio-geral.pdf", presente na pasta README deste repositório. 
+Maiores informações sobre a sintaxe dos dados de entrada podem ser conferidas no arquivo "relatorio-geral.pdf", presente na raiz deste repositório. 
  
-As instruções para compilar e rodar o projeto estão presentes no arquivo "build&run.pdf", também presente na pasta README deste repositório;
+As instruções para compilar e rodar o projeto estão presentes no arquivo "build&run.pdf", também presente na raiz deste repositório.
 
